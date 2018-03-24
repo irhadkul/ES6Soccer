@@ -1,0 +1,16 @@
+{
+  "name": "soccergame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  },
+  "scripts": {
+      "start": "webpack --config webpack.config.js"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
