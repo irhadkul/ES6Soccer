@@ -4,13 +4,15 @@ let teamsJson = [
     {
         "name": "Manchester United", "color": "red", "players": [
             {name: "Irhad", position: "att", ratings: ["10", "80", "45", "95"]},
-            {name: "Melka", position: "mid", ratings: ["12", "80", "45", "95"]}
+            {name: "Melka", position: "mid", ratings: ["12", "80", "45", "95"]}, 
+            {name: "Dennis", position: "def", ratings: ["50", "95", "35", "10"]}
         ]
     },
     {
         "name": "Real Madrid", "color": "blue", "players": [
             {name: "Irhad", position: "att", ratings: ["10", "80", "45", "95"]},
-            {name: "Melka", position: "mid", ratings: ["12", "80", "45", "95"]}
+            {name: "Melka", position: "mid", ratings: ["12", "80", "45", "95"]},
+            {name: "Dennis", position: "def", ratings: ["50", "95", "35", "10"]}
         ]
     }
 ];
